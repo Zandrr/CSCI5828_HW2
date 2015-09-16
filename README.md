@@ -3,4 +3,4 @@
 # Homework 2
 # Alex Campbell
 
-#new stuff!
+#git add README.md; git commit -m "commit message"; git merge bug-fix;
