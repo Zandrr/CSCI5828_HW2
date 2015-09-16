@@ -1,2 +1,2 @@
-# CSCI5828_HW2!
+# CSCI 5828 - Spring 2015
 # Homework 2
